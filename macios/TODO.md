@@ -1,0 +1,5 @@
+- [ ] Update `floppy_bird.py` visuals: background/ground + clouds
+- [ ] Redesign bird drawing to look “floppy” (outline + wing flap animation)
+- [ ] Redesign pipes to look like cardboard tubes (bands + caps)
+- [ ] Keep gameplay/collision/score logic unchanged
+- [ ] Run `python main.py` to verify visuals and gameplay
